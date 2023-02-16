@@ -1,7 +1,4 @@
-<template>
-    Login Page
-</template>
-
+<template>Login Page</template>
+  
 <script setup>
-
 </script>
