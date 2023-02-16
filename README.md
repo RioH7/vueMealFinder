@@ -1,7 +1,35 @@
-# Vue 3 + Vite
+# Vue Meal Finder
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Table of contents
 
-## Recommended IDE Setup
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [Author](#author)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### The challenge
+
+Users should be able to:
+
+- See a list of meals on the home page
+- Search meals by letter
+- Search meals by name
+- Search meals by ingredients
+### Links
+
+- Live Site URL: 
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Tailwind CSS
+- VueJS
+- Axios
+- Vite
+
+## Author
+
+- Website - [Rio Humphreys](https://github.com/RioH7)
